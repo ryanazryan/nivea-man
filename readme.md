@@ -21,5 +21,6 @@ This repository contains the source code for the NIVEA Landing Page, built using
 
 - ## Installation
 1. Clone this repository:
+   
    ```bash
    git clone https://github.com/ryanazryan/nivea-man.git
