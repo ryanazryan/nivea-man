@@ -1,4 +1,4 @@
-![Landing Page UI](https://github.com/ryanazryan/nivea-man/blob/main/assets/images/Screenshot%202024-02-14%20185808.png?raw=true)
+![Landing Page UI](https://github.com/ryanazryan/nivea-man/blob/main/assets/images/ui.png?raw=true)
 
 ###################
 What is CodeIgniter
